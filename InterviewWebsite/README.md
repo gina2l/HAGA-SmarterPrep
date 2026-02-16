@@ -292,7 +292,9 @@ node server.js
 then in another terminal(for brain and learning)
 cd python_brain
 python brain.py
+last step is changing the api key to yours in ai-avatar-bot .env file
 then you enter the url of the overall website
+© 2026 Ghina Rashwani. All rights reserved.
 
  
 
